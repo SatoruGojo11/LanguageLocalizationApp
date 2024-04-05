@@ -1,0 +1,14 @@
+{
+  "homePageBody": "هذه هي الصفحة الرئيسية",
+  "homePage": "الصفحة الرئيسية",
+  "currentDate": "التاريخ الحالي :- {date}",
+  "@currentDate": {
+    "description": "A Message with a Date parameter",
+    "placeholders":{
+      "date": {
+        "type": "DateTime",
+        "format": "yMd"
+      }
+    }
+  }
+}

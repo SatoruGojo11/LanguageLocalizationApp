@@ -1,0 +1,14 @@
+{
+  "homePageBody": "हे मुखपृष्ठ आहे|",
+  "homePage": "मुखपृष्ठ",
+  "currentDate": "चालू दिनांक :- {date}",
+  "@currentDate": {
+    "description": "A Message with a Date parameter",
+    "placeholders":{
+      "date": {
+        "type": "DateTime",
+        "format": "yMd"
+      }
+    }
+  }
+}

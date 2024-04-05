@@ -1,0 +1,14 @@
+{
+  "homePageBody": "આ એક હોમ પેજ છે",
+  "homePage": "હોમ પેજ",
+  "currentDate": "આજની તારીખ :- {date}",
+  "@currentDate": {
+    "description": "A Message with a Date parameter",
+    "placeholders":{
+      "date": {
+        "type": "DateTime",
+        "format": "yMd"
+      }
+    }
+  }
+}

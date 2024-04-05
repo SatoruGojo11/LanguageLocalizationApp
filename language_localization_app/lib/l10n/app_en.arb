@@ -1,0 +1,14 @@
+{
+  "homePageBody": "This is a Home Page",
+  "homePage": "Home Page",
+  "currentDate": "Current Date :- {date}",
+  "@currentDate": {
+    "description": "A Message with a Date parameter",
+    "placeholders":{
+      "date": {
+        "type": "DateTime",
+        "format": "yMd"
+      }
+    }
+  }
+}
